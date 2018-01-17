@@ -11,7 +11,7 @@ Use computer vision to recognize women?s clothing items from images and classify
 1. [Project Presentation Slides](StyleSpotterPresentation.pdf)
 
 2. [Modeling in Jupiter Notebooks](/Modeling_Notebooks/)
-	* [Data Cleaning and Preparation Notebook](/DataPreparation_ImagePreProcessing.ipynb)
+	* [Data Cleaning and Preparation Notebook](/Modeling_Notebooks/DataPreparation_ImagePreProcessing.ipynb)
 	* [Sequential Modeling- 10 Categories Notebook](/Modeling_Notebooks/SequentialModel_10Categories.ipynb)
 	* [InceptionV3 Modeling- 10 Categories Notebook](/Modeling_Notebooks/InceptionV3Model_Categories10.ipynb)
 	* [nceptionV3 Modeling- 22 Categories Notebook](/Modeling_Notebooks/InceptionV3Model_22Categories.ipynb)
